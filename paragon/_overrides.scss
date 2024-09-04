@@ -886,7 +886,7 @@ div[data-learner-type=b2c_learner] {
         .logo-holder {
             margin: 15px 0 15px 35px;
             img {
-                height: 21px;
+                height: 35px;
             }
         }
         .menu {
@@ -1008,12 +1008,12 @@ div[data-learner-type=b2c_learner] {
         .logo {
             position: static;
             height: auto;
-            margin: 15px 0 15px 35px !important;
+            margin: 4px 0 !important;
             @include media-breakpoint-up(lg) {
                 margin: 0 18px 0 0 !important;
             }
             img {
-                height: 21px;
+                height: 35px;
             }
        }
         .main-nav {
@@ -1103,12 +1103,12 @@ div[data-learner-type=b2c_learner] {
        .logo {
             position: static;
             height: auto;
-            margin: 15px 0 15px 35px !important;
+            margin: 4px 0 !important;
             @include media-breakpoint-up(lg) {
                 margin: 0 18px 0 0 !important;
             }
             img {
-                height: 21px;
+                height: 35px;
             }
        }
        .course-title-lockup {

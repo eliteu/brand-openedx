@@ -1,10 +1,14 @@
 {
   "name": "@eliteu/brand-openedx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The default branding and SASS theme package containing for Open edX applications. This package is designed to be copied and customized.",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://npm.pkg.github.com"
+    "url": "git+https://github.com/edly-io/brand-openedx.git"
   },
   "author": "Open edX Community",
   "license": "GPL-3.0-or-later",
